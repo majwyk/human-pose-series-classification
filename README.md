@@ -4,19 +4,19 @@ An Transformer implementation of <a href="https://github.com/Wedding33/Classific
 
 ## Install
 
-Just download the code as a zip file and extract it.
+Just download the code as a zip file.
 
 ## Usage
 
 ### To train:
 
-- Place your dataset in the file `data`, split them as train/test data and place them in the subfolder `train` and `test`.
+- Place your dataset in the file `data`, split them into train/test data and place them in the subfolder `train` and `test`.
 
 - Run `main.py`, then the model will be saved in folder `checkpoints` as `model.pkl`.
 
 ### To test:
 
-- Place the pretrained model in folder `checkpoints` and name it as `model.pkl` (there is already placed one.)
+- Place the pretrained model in folder `checkpoints` and name it as `model.pkl`.
 
 - Open `main.py` and comment line 178
 
