@@ -4,7 +4,7 @@ An Transformer implementation of <a href="https://github.com/Wedding33/Classific
 
 ## Install
 
-Just download the code as a zip file.
+Just download the code as a zip file and extract it.
 
 ## Usage
 
