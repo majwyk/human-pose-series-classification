@@ -1,6 +1,7 @@
 # human-pose-series-classification
 
 An Transformer implementation of <a href="https://github.com/Wedding33/Classification-of-human-posture">human-pose-series-classification</a>.
+PyTorch version 1.9.0
 
 ## Install
 
